@@ -1,0 +1,2 @@
+net stop OrquestadorCentralWs
+sc delete OrquestadorCentralWs
