@@ -1,0 +1,110 @@
+[
+  {
+    "DVid": "50",
+    "WebSite": {
+      "Name": "COBRANZA",
+      "Path": "E:\\ADN\\NET64_BAZ\\Cobranza",
+      "AppPool": "COBRANZASITEPOOL",
+      "FrameworkVersion": "v4.0.30319",
+      "PipeLineMode": "Integrated",
+      "Port": "9026"
+    },
+    "Directory": {
+      "path": "E:\\PuntoDeVenta\\GerentePV",
+      "accessRead": "true",
+      "accessExecute": "false",
+      "accessWrite": "false",
+      "accessScript": "false",
+      "authNTLM": "false",
+      "enableDefaultDoc": "true",
+      "enableDirBrowsing": "false",
+      "dirBrowseShowDate": "false",
+      "dirBrowseShowTime": "false",
+      "dirBrowseShowSize": "false",
+      "dirBrowseShowExtension": "false",
+      "dirBrowseShowLongDate": "false",
+      "defaultDoc": "Default.htm",
+      "appFriendlyName": "GerentePV",
+      "appIsolated": "2",
+      "appRoot": "GerentePV",
+      "dontLog": "true",
+      "anonymousUserName": "",
+      "aspSessionTimeout": "15",
+      "appPoolId": "GerentePVPool",
+      "nuevoAppPool": "GerentePVPool",
+      "frameworkVersion": "v2.0.50727"
+    }
+  },
+  {
+    "DVid": "51",
+    "WebSite": {
+      "Name": "Default Web Site",
+      "Path": "",
+      "AppPool": "",
+      "FrameworkVersion": "",
+      "PipeLineMode": "",
+      "Port": ""
+    },
+    "Directory": {
+      "path": "E:\\PuntoDeVenta\\GerentePV",
+      "accessRead": "true",
+      "accessExecute": "false",
+      "accessWrite": "false",
+      "accessScript": "false",
+      "authNTLM": "false",
+      "enableDefaultDoc": "true",
+      "enableDirBrowsing": "false",
+      "dirBrowseShowDate": "false",
+      "dirBrowseShowTime": "false",
+      "dirBrowseShowSize": "false",
+      "dirBrowseShowExtension": "false",
+      "dirBrowseShowLongDate": "false",
+      "defaultDoc": "Default.htm",
+      "appFriendlyName": "GerentePV",
+      "appIsolated": "2",
+      "appRoot": "GerentePV",
+      "dontLog": "true",
+      "anonymousUserName": "",
+      "aspSessionTimeout": "15",
+      "appPoolId": "GerentePVPool",
+      "nuevoAppPool": "GerentePVPool",
+      "frameworkVersion": "v2.0.50727"
+    }
+  },
+  {
+    "DVid": "52",
+    "WebSite": {
+      "Name": "Default Web Site",
+      "Path": "",
+      "AppPool": "",
+      "FrameworkVersion": "",
+      "PipeLineMode": "",
+      "Port": ""
+    },
+    "Directory": {
+      "path": "E:\\PuntoDeVenta\\GerentePV",
+      "accessRead": "true",
+      "accessExecute": "false",
+      "accessWrite": "false",
+      "accessScript": "false",
+      "authNTLM": "false",
+      "enableDefaultDoc": "true",
+      "enableDirBrowsing": "false",
+      "dirBrowseShowDate": "false",
+      "dirBrowseShowTime": "false",
+      "dirBrowseShowSize": "false",
+      "dirBrowseShowExtension": "false",
+      "dirBrowseShowLongDate": "false",
+      "defaultDoc": "Default.htm",
+      "appFriendlyName": "GerentePV",
+      "appIsolated": "2",
+      "appRoot": "GerentePV",
+      "dontLog": "true",
+      "anonymousUserName": "",
+      "aspSessionTimeout": "15",
+      "appPoolId": "GerentePVPool",
+      "nuevoAppPool": "GerentePVPool",
+      "frameworkVersion": "v2.0.50727"
+    }
+  }
+]

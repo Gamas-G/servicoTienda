@@ -1,0 +1,32 @@
+﻿Instalando ensamblado 'E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe
+   logfile = E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.InstallLog
+Instalando el servicio ServiceHolaMundo...
+Creando el origen de EventLog ServiceHolaMundo en el registro Application...
+Deshaciendo ensamblado 'E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe
+   logfile = E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen ServiceHolaMundo.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security, State.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe
+   logfile = E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.InstallLog
+Instalando el servicio ServiceHolaMundo...
+Creando el origen de EventLog ServiceHolaMundo en el registro Application...
+Deshaciendo ensamblado 'E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe
+   logfile = E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen ServiceHolaMundo.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security, State.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.

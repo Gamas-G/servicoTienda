@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="EntregaRepHallazgos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ContXml" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Suc" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EntregaRepHallazgosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="EntregaRepHallazgosResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ConfigOrqAct">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Suc" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ConfigOrqActResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ConfigOrqActResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SincronizarInfoMtr">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Suc" type="xs:int" />
+        <xs:element minOccurs="0" name="FechaCambios" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SincronizarInfoMtrResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SincronizarInfoMtrResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ReportaEstacTrab">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="WsCadena" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Suc" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ReportaEstacTrabResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ReportaEstacTrabResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SolReportarHallazgoDemanda">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ip" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SolReportarHallazgoDemandaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SolReportarHallazgoDemandaResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SolZip">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ip" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ruta" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SolZipResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SolZipResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CrearCatalogoDVs">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CrearCatalogoDVsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CrearCatalogoDVsResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

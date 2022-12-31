@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ConexSuc" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IConexSuc_EntregaRepHallazgos_InputMessage">
+    <wsdl:part name="parameters" element="tns:EntregaRepHallazgos" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_EntregaRepHallazgos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EntregaRepHallazgosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_ConfigOrqAct_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConfigOrqAct" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_ConfigOrqAct_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConfigOrqActResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_SincronizarInfoMtr_InputMessage">
+    <wsdl:part name="parameters" element="tns:SincronizarInfoMtr" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_SincronizarInfoMtr_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SincronizarInfoMtrResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_ReportaEstacTrab_InputMessage">
+    <wsdl:part name="parameters" element="tns:ReportaEstacTrab" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_ReportaEstacTrab_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ReportaEstacTrabResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_SolReportarHallazgoDemanda_InputMessage">
+    <wsdl:part name="parameters" element="tns:SolReportarHallazgoDemanda" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_SolReportarHallazgoDemanda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SolReportarHallazgoDemandaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_SolZip_InputMessage">
+    <wsdl:part name="parameters" element="tns:SolZip" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_SolZip_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SolZipResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_CrearCatalogoDVs_InputMessage">
+    <wsdl:part name="parameters" element="tns:CrearCatalogoDVs" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_CrearCatalogoDVs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CrearCatalogoDVsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IConexSuc">
+    <wsdl:operation name="EntregaRepHallazgos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/EntregaRepHallazgos" message="tns:IConexSuc_EntregaRepHallazgos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/EntregaRepHallazgosResponse" message="tns:IConexSuc_EntregaRepHallazgos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConfigOrqAct">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/ConfigOrqAct" message="tns:IConexSuc_ConfigOrqAct_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/ConfigOrqActResponse" message="tns:IConexSuc_ConfigOrqAct_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SincronizarInfoMtr">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/SincronizarInfoMtr" message="tns:IConexSuc_SincronizarInfoMtr_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/SincronizarInfoMtrResponse" message="tns:IConexSuc_SincronizarInfoMtr_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ReportaEstacTrab">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/ReportaEstacTrab" message="tns:IConexSuc_ReportaEstacTrab_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/ReportaEstacTrabResponse" message="tns:IConexSuc_ReportaEstacTrab_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SolReportarHallazgoDemanda">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/SolReportarHallazgoDemanda" message="tns:IConexSuc_SolReportarHallazgoDemanda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/SolReportarHallazgoDemandaResponse" message="tns:IConexSuc_SolReportarHallazgoDemanda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SolZip">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/SolZip" message="tns:IConexSuc_SolZip_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/SolZipResponse" message="tns:IConexSuc_SolZip_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CrearCatalogoDVs">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/CrearCatalogoDVs" message="tns:IConexSuc_CrearCatalogoDVs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/CrearCatalogoDVsResponse" message="tns:IConexSuc_CrearCatalogoDVs_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IConexSuc" type="tns:IConexSuc">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="EntregaRepHallazgos">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/EntregaRepHallazgos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConfigOrqAct">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/ConfigOrqAct" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SincronizarInfoMtr">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/SincronizarInfoMtr" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReportaEstacTrab">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/ReportaEstacTrab" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SolReportarHallazgoDemanda">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/SolReportarHallazgoDemanda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SolZip">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/SolZip" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CrearCatalogoDVs">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/CrearCatalogoDVs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ConexSuc">
+    <wsdl:port name="BasicHttpBinding_IConexSuc" binding="tns:BasicHttpBinding_IConexSuc">
+      <soap:address location="http://10.54.68.177:9003/OrqCentralWcf" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

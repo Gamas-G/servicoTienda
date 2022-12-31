@@ -1,0 +1,67 @@
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe.config
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.pdb
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Banco.PD3.Persistence.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.Core.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMicroservicio.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\log4net.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Microsoft.Web.Administration.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\PD3.PolicyManager.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\PD3.Utilities.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Quartz.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.pdb
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.xml
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.Core.pdb
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.Core.xml
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMicroservicio.pdb
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\log4net.xml
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\HolaMundo.ProjectInstaller.resources
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.csproj.GenerateResource.Cache
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.exe
+C:\Vrael\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe.config
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.exe
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.Core.dll
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.dll
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMicroservicio.dll
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\log4net.dll
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Microsoft.Web.Administration.dll
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.xml
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.Core.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.Core.xml
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\log4net.xml
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.csprojResolveAssemblyReference.cache
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\HolaMundo.ProjectInstaller.resources
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.csproj.GenerateResource.Cache
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMicroservicio.pdb
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.csproj.AssemblyReference.cache
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\HolaMundo.ProjectInstaller.resources
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.csproj.GenerateResource.cache
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.csproj.CoreCompileInputs.cache
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe.config
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.exe
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMSDV.pdb
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.Core.dll
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.dll
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMicroservicio.dll
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Encriptar.dll
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\log4net.dll
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Microsoft.Web.Administration.dll
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Newtonsoft.Json.dll
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMicroservicio.pdb
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\DMPMicroservicio.dll.config
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Encriptar.pdb
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.pdb
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.xml
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.Core.pdb
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Common.Logging.Core.xml
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\log4net.xml
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\bin\Release\Newtonsoft.Json.xml
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.csproj.CopyComplete
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.exe
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\DMPMSDV\obj\Release\DMPMSDV.pdb

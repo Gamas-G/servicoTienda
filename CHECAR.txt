@@ -1,0 +1,61 @@
+SINCRONIZAR
+
+[
+    {
+        "dvId": "50",
+        "webSite": {
+            "name": "COBRANZA",
+            "path": "E:\\ADN\\NET64_BAZ\\Cobranza",
+            "appPool": "COBRANZASITEPOOL",
+            "frameworkVersion": "v4.0.30319",
+            "pipeLineMode": "Integrated",
+            "port": "9026"
+        },
+        "directory": {
+            "path": "E:\\PuntoDeVenta\\GerentePV",
+            "accessRead": "true",
+            "accessExecute": "false",
+            "accessWrite": "false",
+            "accessScript": "false",
+            "authNTLM": "false",
+            "enableDefaultDoc": "true",
+            "enableDirBrowsing": "false",
+            "dirBrowseShowDate": "false",
+            "dirBrowseShowTime": "false",
+            "dirBrowseShowSize": "false",
+            "dirBrowseShowExtension": "false",
+            "dirBrowseShowLongDate": "false",
+            "defaultDoc": "Default.htm",
+            "appFriendlyName": "GerentePV",
+            "appIsolated": "2",
+            "appRoot": "GerentePV",
+            "dontLog": "true",
+            "anonymousUserName": "",
+            "aspSessionTimeout": "15",
+            "appPoolId": "GerentePVPool",
+            "nuevoAppPool": "GerentePVPool",
+            "frameworkVersion": "v2.0.50727"
+        },
+        "productivo": "True"
+    }
+]
+
+
+
+
+
+Envío formato de json de colección para el reporte de hallazgos
+ 
+[
+    {
+        "dvId": 8,
+        "sucursal": 9797,
+        "workstation": "NT0087",
+        "fechaCreacion": "2022-12-22",
+        "detalle": "Fallo en reconstruir el directorio virtual credito",
+        "estatusId": 2,
+        "descripcionDV": "Credito",
+        "descripcionSitioWeb": "Default Web Site",
+        "applicationPoolDV": "CreditoPool"
+    }
+]

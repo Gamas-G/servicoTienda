@@ -1,0 +1,8 @@
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\Encriptar\bin\Debug\Encriptar.dll
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\Encriptar\bin\Debug\Encriptar.pdb
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\Encriptar\bin\Debug\System.Net.Http.dll
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\Encriptar\obj\Debug\Encriptar.csproj.AssemblyReference.cache
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\Encriptar\obj\Debug\Encriptar.csproj.CoreCompileInputs.cache
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\Encriptar\obj\Debug\Encriptar.csproj.CopyComplete
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\Encriptar\obj\Debug\Encriptar.dll
+E:\Usuarios\lgamasc\Documents\Joel\Sistema de Monitoreo\Back y servicios\monitoreo\monitoreo\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSDV\Encriptar\obj\Debug\Encriptar.pdb

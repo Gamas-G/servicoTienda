@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ConexSuc" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IConexSuc_HolaMundo_InputMessage">
+    <wsdl:part name="parameters" element="tns:HolaMundo" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_HolaMundo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:HolaMundoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_SincronizarDvTienda_InputMessage">
+    <wsdl:part name="parameters" element="tns:SincronizarDvTienda" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_SincronizarDvTienda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SincronizarDvTiendaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_ReportarHallazgos_InputMessage">
+    <wsdl:part name="parameters" element="tns:ReportarHallazgos" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_ReportarHallazgos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ReportarHallazgosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_ComunicacionConTienda_InputMessage">
+    <wsdl:part name="parameters" element="tns:ComunicacionConTienda" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_ComunicacionConTienda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ComunicacionConTiendaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_RestaurarDvTienda_InputMessage">
+    <wsdl:part name="parameters" element="tns:RestaurarDvTienda" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_RestaurarDvTienda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RestaurarDvTiendaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_MonitoreoDV_InputMessage">
+    <wsdl:part name="parameters" element="tns:MonitoreoDV" />
+  </wsdl:message>
+  <wsdl:message name="IConexSuc_MonitoreoDV_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MonitoreoDVResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IConexSuc">
+    <wsdl:operation name="HolaMundo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/HolaMundo" message="tns:IConexSuc_HolaMundo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/HolaMundoResponse" message="tns:IConexSuc_HolaMundo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SincronizarDvTienda">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/SincronizarDvTienda" message="tns:IConexSuc_SincronizarDvTienda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/SincronizarDvTiendaResponse" message="tns:IConexSuc_SincronizarDvTienda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ReportarHallazgos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/ReportarHallazgos" message="tns:IConexSuc_ReportarHallazgos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/ReportarHallazgosResponse" message="tns:IConexSuc_ReportarHallazgos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ComunicacionConTienda">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/ComunicacionConTienda" message="tns:IConexSuc_ComunicacionConTienda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/ComunicacionConTiendaResponse" message="tns:IConexSuc_ComunicacionConTienda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RestaurarDvTienda">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/RestaurarDvTienda" message="tns:IConexSuc_RestaurarDvTienda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/RestaurarDvTiendaResponse" message="tns:IConexSuc_RestaurarDvTienda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MonitoreoDV">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConexSuc/MonitoreoDV" message="tns:IConexSuc_MonitoreoDV_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConexSuc/MonitoreoDVResponse" message="tns:IConexSuc_MonitoreoDV_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IConexSuc" type="tns:IConexSuc">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HolaMundo">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/HolaMundo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SincronizarDvTienda">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/SincronizarDvTienda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReportarHallazgos">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/ReportarHallazgos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ComunicacionConTienda">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/ComunicacionConTienda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RestaurarDvTienda">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/RestaurarDvTienda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MonitoreoDV">
+      <soap:operation soapAction="http://tempuri.org/IConexSuc/MonitoreoDV" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ConexSuc">
+    <wsdl:port name="BasicHttpBinding_IConexSuc" binding="tns:BasicHttpBinding_IConexSuc">
+      <soap:address location="http://10.54.68.177:9003/AdminDvCentralWcf" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
