@@ -1,0 +1,12 @@
+2020-06-18 16:07:56,504 [5] [DMPMSLR.LlavesReg] INFO - El Microservicio de Llaves de Registro ha iniciado y se cargara la configuración
+2020-06-18 16:07:56,524 [5] [DMPMSLR.Monitoreo] INFO - Inicia carga de Configuración
+2020-06-18 16:07:56,542 [5] [DMPMicroservicio.csMsMetodos] INFO - LR - Inicia carga de Configuración
+2020-06-18 16:07:57,039 [5] [DMPMicroservicio.csMsMetodos] INFO - LR - Termina carga de Configuración
+2020-06-18 16:07:57,040 [5] [DMPMSLR.Monitoreo] INFO - Termina carga de Configuración
+2020-06-18 16:07:57,041 [5] [DMPMSLR.LlavesReg] INFO - Se iniciara el WCF LlavesRegMs
+2020-06-18 16:07:57,163 [5] [DMPMSLR.LlavesReg] INFO - LlavesRegMs se inicio correctamente
+2020-06-18 16:07:57,164 [5] [DMPMSLR.LlavesReg] INFO - Se realizara la programación de las tareas de monitoreo
+2020-06-18 16:07:57,168 [5] [DMPMSLR.TareasProgramadas] INFO - Se programara tarea, Tipo: 3 Job: MonitoreoLR Trigger: triggerMtrLR Horario: 19:40
+2020-06-18 16:07:57,274 [5] [DMPMSLR.TareasProgramadas] INFO - La programación de la tarea termino correctamente
+2020-06-18 16:07:57,274 [5] [DMPMSLR.LlavesReg] INFO - El Microservicio de Llaves de Registro termino su proceso de inicio correctamente.
+2020-06-18 18:44:34,612 [33] [DMPMSLR.LlavesReg] INFO - El Microservicio de Llaves de Registro se ha detenido

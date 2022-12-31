@@ -1,0 +1,39 @@
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\DMPMSSW.exe.config
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\DMPMSSW.exe
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\DMPMSSW.pdb
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Banco.PD3.Persistence.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.Core.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\DMPMicroservicio.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\log4net.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\PD3.PolicyManager.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\PD3.Utilities.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Quartz.dll
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.pdb
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.xml
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.Core.pdb
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.Core.xml
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\DMPMicroservicio.pdb
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\log4net.xml
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\obj\Debug\HolaMundo.ProjectInstaller.resources
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\obj\Debug\DMPMSSW.csproj.GenerateResource.Cache
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\obj\Debug\DMPMSSW.exe
+C:\Vrael\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\obj\Debug\DMPMSSW.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\DMPMSSW.exe.config
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\obj\Debug\DMPMSSW.exe
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\obj\Debug\DMPMSSW.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\DMPMSSW.exe
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\DMPMSSW.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.Core.dll
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.dll
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\DMPMicroservicio.dll
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\log4net.dll
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.xml
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.Core.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\Common.Logging.Core.xml
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\DMPMicroservicio.pdb
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\bin\Debug\log4net.xml
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\obj\Debug\DMPMSSW.csprojResolveAssemblyReference.cache
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\obj\Debug\HolaMundo.ProjectInstaller.resources
+E:\Users\b335913\Desktop\Monitoreo\MONITOREO BUENO\SERVICIOS MONITOREO\Monitoreo\Microservicios\DMPMSSW\DMPMSSW\obj\Debug\DMPMSSW.csproj.GenerateResource.Cache
